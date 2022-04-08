@@ -1,0 +1,58 @@
+@media screen and (max-width: 767.99px) {
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    #about_me {
+        padding: 60px 0;
+    }
+    .about-img {
+        display: none;
+    }
+    section#services .lg-title {
+        margin-bottom: 20px;
+    }
+    .service-text {
+        margin-bottom: 30px;
+    }
+    section#services {
+        padding: 60px;
+    }
+    #skills {
+        padding: 60px 0;
+    }
+    section#achivment {
+        padding: 60px 0;
+    }
+    .count-single {
+        margin-bottom: 50px;
+    }
+    #testimonials {
+        padding: 60px 0;
+    }
+    #portfolio {
+        padding: 60px 0;
+    }
+    #contact {
+        padding: 60px 0;
+    }
+    .map {
+        display: none;
+    }
+
+}
+@media screen and (max-width:767.99px) {
+    .footer-single {
+        margin-bottom: 40px;
+    }
+}
+@media screen and (max-width: 576.99px) {
+    footer#footer {
+        color: #f1f1f1;
+        padding: 50px 0 30px 0;
+    }
+    .footer-bottom {
+        margin: 20px 0 0 0;
+    }
+}
+
